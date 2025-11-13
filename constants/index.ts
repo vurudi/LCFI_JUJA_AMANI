@@ -1,7 +1,7 @@
 export const events = [
     {
       id: 1,
-      title: 'YOUTH TALK',
+      title: 'YOUTHS CONVERSATION',
       text: `Life Care Fellowship International Church - Juja Amani invites you to a special youth event on 30th November 2025 from 2:00 PM to 6:00 PM. This afternoon will be full of inspiration, discussion, and growth, exploring topics such as:
       • Relationships
       • Drugs
@@ -78,31 +78,32 @@ export const events = [
 
 export const services = [
   {
-    image: '/assets/images/him teaching/IMG_20230421_193411.jpg',
-    title: 'Coaching and Training Sessions',
-    text: "Benefit from Quincy's wealth of experience in voice, having worked alongside Cheryl Porter. Davies also holds a music degree and offers extensive expertise. Your talent is well-cared for in our hands.",
+    image: '/assets/images/church/teaching.jpg',
+    title: 'Discipleship and Training Sessions',
+    text: "Grow in faith through our discipleship programs and Bible-based training sessions. We equip believers with the Word of God and practical wisdom for daily living, ministry, and leadership.",
   },
   {
-    image: '/assets/images/him teaching/IMG-20240420-WA0032.jpg',
-    title: 'Exclusive Collaboration and Outsourcing Opportunities',
-    text: "Enhance your music with our established music training programs, complemented by our studio's expert recording and production services.",
+    image: '/assets/images/church/outreach.jpg',
+    title: 'Evangelism and Outreach',
+    text: "We are committed to reaching our community with the Gospel of Christ. Join us for street evangelism, community service, and mission outreach as we share the love of Jesus in action.",
   },
   {
-    image: '/assets/images/him teaching/IMG_20230220_175945.jpg',
-    title: 'Sound System and Instruments',
-    text: 'We have instruments for crusades, large-scale and small-scale events. Reinforce your events as we support you with musicians/band/sound & musical instruments.',
+    image: '/assets/images/church/worship.jpg',
+    title: 'Worship and Prayer Experience',
+    text: "Experience the presence of God in powerful worship and prayer gatherings. Our services are filled with heartfelt praise, intercession, and the move of the Holy Spirit.",
   },
   {
-    image: '/assets/images/him teaching/IMG-20240420-WA0033.jpg',
-    title: 'Christmas Moments with Quincy Davies and The Gospellier',
-    text: 'Celebrate the holiday season with our special Christmas Moments event. Reserve LCFI_ JUJA_AMANI for your end-of-year festivities, including company parties, church celebrations, and Easter events.',
+    image: '/assets/images/church/events.jpg',
+    title: 'Special Events and Fellowships',
+    text: "Be part of our vibrant church family through youth events, family fellowships, conferences, and special worship nights designed to build faith and community bonds.",
   },
   {
-    image: '/assets/images/him teaching/IMG-20240420-WA0033.jpg',
-    title: "Quincy's Coner",
-    text: 'Seek professional guidance and support through Quincy’s Coner, our counseling services. Quincy Bell is a certified psychotherapist and is available for sessions if you are dealing with grief or mental health concerns.',
+    image: '/assets/images/church/care.jpg',
+    title: 'Counseling and Life Care Support',
+    text: "We provide spiritual and emotional support through one-on-one counseling, marriage guidance, and mentorship programs — helping individuals find healing, direction, and purpose in Christ.",
   },
 ];
+
 
 export const ministers = [
   {

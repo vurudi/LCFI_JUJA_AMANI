@@ -19,48 +19,48 @@ const Services = () => {
 
   return (
     <>
-      <LearnMoreDrawer open={open} setOpen={setOpen} />
+      <LearnMoreDrawer open={open} setOpen={setOpen} /> 
       <div>
         <PageHeader title={translations('navigation.services')} />
         <div className="grid lg:grid-cols-4 gap-10 px-6 md:px-12 lg:px-48 py-10 md:py-12 lg:py-20">
           <div className="col-span-2 grid md:grid-cols-2 gap-10 max-h-fit h-fit">
             <Image
-              src="https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137764/IMG_20230421_193411_hjql2h.jpg"
+              src="/media/LCFI_JUJA_FAMILY.jpeg"
               alt="service image"
               height={400}
               width={400}
               className="object-cover rounded-3xl hover:scale-110 transition ease-in-out delay-100 duration-300 min-h-56"
             />
             <Image
-              src="https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137650/IMG-20240420-WA0032_t8ech5.jpg"
+              src="/media/fam4.jpeg"
               alt="service image"
               height={400}
               width={400}
               className="object-cover rounded-3xl hover:scale-110 transition ease-in-out delay-100 duration-300 min-h-56"
             />
             <Image
-              src="https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137711/IMG_20230902_160831_kznlig.jpg"
+              src="/media/fam3.jpeg"
               alt="service image"
               height={400}
               width={400}
               className="object-cover rounded-3xl hover:scale-110 transition ease-in-out delay-100 duration-300 min-h-56"
             />
             <Image
-              src="https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137657/IMG_20230220_175945_rbk9gk.jpg"
+              src="/media/FAM2.jpeg"
               alt="service image"
               height={400}
               width={400}
               className="object-cover rounded-3xl hover:scale-110 transition ease-in-out delay-100 duration-300 min-h-56"
             />
             <Image
-              src="https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137668/IMG_20231007_164207_shxag5.jpg"
+              src="/media/logo.jpeg"
               alt="service image"
               height={400}
               width={400}
               className="object-cover rounded-3xl hover:scale-110 transition ease-in-out delay-100 duration-300 min-h-56"
             />
             <Image
-              src="https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137650/IMG-20240420-WA0033_z4da2r.jpg"
+              src="/media/cross.jpg"
               alt="service image"
               height={400}
               width={400}

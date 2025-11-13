@@ -21,8 +21,8 @@
         "/media/youthsevent.jpg"
      
       ],
-      "title": "YOUTH TALK",
-      "text": "Life Care Fellowship International Church - Juja Amani invites you to a special youth event on 30th November 2025 from 2:00 PM to 6:00 PM. This afternoon will be full of inspiration, discussion, and growth, exploring topics such as:\n• Relationships\n• Drugs\n• Social Media\n• Spiritual Growth\n• Mental Health\n• Unlocking Your Potential\n\nThere will also be refreshments as we connect, share, and empower one another. Don't miss out! Feel free to bring your friends along. For more info, contact us at 07 13 445 055.",
+      "title": "YOUTHS CONVERSATION",
+      "text": "Life Care Fellowship International Church - Juja Amani invites you to a special youth event on 30th November 2025 from 2:00 PM to 6:00 PM.\n\nThis afternoon will be full of inspiration, discussion, and growth, exploring topics such as:\n• Relationships\n• Drugs\n• Social Media\n• Spiritual Growth\n• Mental Health\n• Unlocking Your Potential\n\nThere will also be refreshments as we connect, share, and empower one another.\n\nDon't miss out! Feel free to bring your friends along. For more info, contact us at 07 13 445 055.\n\n\"Don’t let anyone think less of you because you are young. Be an example to all believers in what you say, in the way you live, in your love, your faith, and your purity.\" – 1 Timothy 4:12 (GNT)",
       "start": "30 November, 2025",
       "end": "30 November, 2025",
       "frequency": "Edition 1",
@@ -75,12 +75,12 @@
       "images": [
         "https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137612/street-worship_qjbhwo.jpg"
       ],
-      "title": "STREET WORSHIP, EVANGELISM, AND WORSHIP NIGHT",
-      "text": "Jesus didn't confine his presence to the synagogue; his kindness extended everywhere. Street worship serves as a platform where we can honor him openly and spread his message far and wide.",
+      "title": "STREET WORSHIP, EVANGELISM, AND MISSION WORKS",
+      "text": "Jesus didn't confine his presence to the synagogue; his kindness extended everywhere. Street worship gives us a powerful platform to honor Him openly, celebrate His love, and reach out to our community with the message of hope and salvation. Join us as we sing, pray, and share His Word, making His presence known in the streets and hearts of those around us.",
       "start": null,
       "end": null,
-      "frequency": "Last Saturday of the month",
-      "time": "3pm"
+      "frequency": "Last Sunday of the month",
+      "time": "3pm - 6pm"
     },
     {
       "id": 6,
@@ -98,27 +98,27 @@
   "eventDetails": "Event details",
   "seeMore": "See more",
   "services": [
-    {
-      "title": "Coaching and Training Sessions",
-      "text": "Benefit from Quincy's wealth of experience in voice, having worked alongside Cheryl Porter. Davies also holds a music degree and offers extensive expertise. Your talent is well-cared for in our hands."
-    },
-    {
-      "title": "Exclusive Collaboration and Outsourcing Opportunities",
-      "text": "Enhance your music with our established music training programs, complemented by our studio's expert recording and production services."
-    },
-    {
-      "title": "Sound System and Instruments",
-      "text": "We have instruments for crusades, large-scale and small-scale events. Reinforce your events as we support you with musicians/band/sound & musical instruments."
-    },
-    {
-      "title": "Christmas Moment with Quincy Bell and the Davies Gospellier",
-      "text": "Celebrate the holiday season with our special Christmas Moments event. Reserve LCFI_ JUJA_AMANI for your end-of-year festivities, including company parties, church celebrations, and Easter events."
-    },
-    {
-      "title": "Quincy's Corner",
-      "text": "Seek professional guidance and support through Quincy’s Corner, our counseling services. Quincy Bell is a certified psychotherapist and is available for sessions if you are dealing with grief or mental health concerns."
-    }
-  ],
+  {
+    "title": "Discipleship and Training Sessions",
+    "text": "Grow deeper in your walk with God through our discipleship and leadership training sessions. We equip believers with Biblical knowledge, spiritual discipline, and practical guidance for ministry and daily life."
+  },
+  {
+    "title": "Evangelism and Community Outreach",
+    "text": "We are passionate about reaching our community with the love of Christ. Join us as we take the Gospel to the streets, schools, and homes through evangelism, charity drives, and community service."
+  },
+  {
+    "title": "Worship and Prayer Experience",
+    "text": "Encounter God in an atmosphere of powerful worship and heartfelt prayer. Our services are dedicated to exalting Jesus, seeking His presence, and interceding for families, the church, and the nation."
+  },
+  {
+    "title": "Church Events and Fellowships",
+    "text": "Be part of a vibrant church family through our youth programs, family fellowships, conferences, and worship nights. Every gathering is an opportunity to grow, connect, and be inspired together in Christ."
+  },
+  {
+    "title": "Counseling and Life Care Ministry",
+    "text": "We provide spiritual, emotional, and relational support through counseling, mentorship, and prayer. Our Life Care team is here to walk with you through life’s challenges with compassion and faith."
+  }
+],
   "heroSection": {
     "welcome": "Welcome to",
     "summary": "Worship, gospel outreach, marriage, helping, traveling, and empowerment."
