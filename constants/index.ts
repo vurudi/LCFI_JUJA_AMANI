@@ -1,12 +1,22 @@
 export const events = [
-  {
-    id: 1,
-    title: 'UNIVERSITY OF MARRIAGE',
-    text: "The University of Marriage is a non-profit marriage school part of LIFE CARE FELLOWSHIP INTERNATIONAL. It offers programs such as The Third Option to strengthen marriages and families, focusing on practical skills and inner growth. The volunteers follow a ministry philosophy based on Ephesians 4:12, being spiritually gifted, humble, and dedicated to personal development.It's in 4 seasons /semester; Spring ,Summer ,Autuum,Winter Class",
-    start: '6 September, 2024',
-    end: null,
-    frequency: 'Friday',
-    time: '19:00 - 20:30',
+    {
+      id: 1,
+      title: 'YOUTH TALK',
+      text: `Life Care Fellowship International Church - Juja Amani invites you to a special youth event on 30th November 2025 from 2:00 PM to 6:00 PM. This afternoon will be full of inspiration, discussion, and growth, exploring topics such as:
+      • Relationships
+      • Drugs
+      • Social Media
+      • Spiritual Growth
+      • Mental Health
+      • Unlocking Your Potential
+
+      There will also be refreshments as we connect, share, and empower one another. Don't miss out! Feel free to bring your friends along. For more info, contact us at 07 13 445 055.
+
+      Additionally, The University of Marriage, a non-profit marriage school part of LIFE CARE FELLOWSHIP INTERNATIONAL, offers programs such as The Third Option to strengthen marriages and families, focusing on practical skills and inner growth. Volunteers follow a ministry philosophy based on Ephesians 4:12, being spiritually gifted, humble, and dedicated to personal development. Programs run in four seasons/semesters: Spring, Summer, Autumn, Winter.`,
+      start: '30 November, 2025',
+      end: '30 November, 2025',
+      frequency: 'Edition 1',
+      time: '14:00 - 18:00'
   },
   {
     id: 2,
