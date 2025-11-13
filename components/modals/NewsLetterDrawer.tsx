@@ -52,7 +52,7 @@ const NewsLetterDrawer = ({
       <div style="font-family: Arial, sans-serif; background-color: #f4f4f4; padding: 20px;">
         <div style="max-width: 600px; margin: auto; background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
           <div style="background-color: #28a745; padding: 20px; text-align: center;">
-            <img src="https://res.cloudinary.com/dw9oa2vpq/image/upload/v1724494518/QDM/QDM_MINISTRY_LOGO_GOLD_u21sxd.png" alt="QDM Logo" style="max-width: 150px; margin-bottom: 10px;" />
+            <img src="https://res.cloudinary.com/dw9oa2vpq/image/upload/v1724494518//_MINISTRY_LOGO_GOLD_u21sxd.png" alt=" Logo" style="max-width: 150px; margin-bottom: 10px;" />
             <h1 style="color: #ffffff; font-size: 24px; margin: 0;">Thank You for Subscribing!</h1>
           </div>
           <div style="padding: 30px; text-align: center;">
@@ -61,10 +61,10 @@ const NewsLetterDrawer = ({
               We're thrilled to have you on board. You've successfully subscribed to our newsletter, and you'll be the first to know about our latest updates, special offers, and exciting news.
             </p>
             <p style="font-size: 16px; color: #333333;">Stay tuned!</p>
-            <p style="font-size: 16px; color: #333333;">Best regards,<br />The Quincy Davies Minstries Team</p>
+            <p style="font-size: 16px; color: #333333;">Best regards,<br />The Life Care Fellowship Team</p>
           </div>
           <div style="background-color: #28a745; padding: 10px; text-align: center;">
-            <p style="font-size: 14px; color: #ffffff;">&copy; 2024 Quincy Davies Minstries. All rights reserved.</p>
+            <p style="font-size: 14px; color: #ffffff;">&copy; 2024 Life Care Fellowship. All rights reserved.</p>
           </div>
         </div>
       </div>
@@ -83,12 +83,12 @@ const NewsLetterDrawer = ({
         sender: 'newsletter',
         receipient: [
           {
-            name: 'Quincy Davies Ministries',
+            name: 'LIFE CARE FELLOWSHIP INTERNATIONAL',
             address: 'newsletter@quincydaviesministries.com',
           },
         ],
         message: ` ${email} Just subscribed to news letter`,
-        subject: `Quincy Davies Ministries - New subscriber`,
+        subject: `LIFE CARE FELLOWSHIP INTERNATIONAL - New subscriber`,
       };
       await axios.post(emailUrl, {
         ...inHouseEmailData,

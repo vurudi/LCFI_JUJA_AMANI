@@ -105,7 +105,7 @@ const Services = () => {
                   Christmas Moments with Quincy Davies and The Gospellier:
                 </span>{" "}
                 Celebrate the holiday season with our special Christmas Moments
-                event. Reserve Quincy Bell & Davies Gospellier for your
+                event. Reserve LCFI_ JUJA_AMANI for your
                 end-of-year festivities, including company parties, church
                 celebrations, and Easter events.
               </li> */}

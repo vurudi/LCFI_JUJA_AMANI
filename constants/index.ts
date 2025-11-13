@@ -2,7 +2,7 @@ export const events = [
   {
     id: 1,
     title: 'UNIVERSITY OF MARRIAGE',
-    text: "The University of Marriage is a non-profit marriage school part of Quincy Davies Ministries. It offers programs such as The Third Option to strengthen marriages and families, focusing on practical skills and inner growth. The volunteers follow a ministry philosophy based on Ephesians 4:12, being spiritually gifted, humble, and dedicated to personal development.It's in 4 seasons /semester; Spring ,Summer ,Autuum,Winter Class",
+    text: "The University of Marriage is a non-profit marriage school part of LIFE CARE FELLOWSHIP INTERNATIONAL. It offers programs such as The Third Option to strengthen marriages and families, focusing on practical skills and inner growth. The volunteers follow a ministry philosophy based on Ephesians 4:12, being spiritually gifted, humble, and dedicated to personal development.It's in 4 seasons /semester; Spring ,Summer ,Autuum,Winter Class",
     start: '6 September, 2024',
     end: null,
     frequency: 'Friday',
@@ -21,12 +21,13 @@ export const events = [
   {
     id: 3,
     images: ['/assets/images/assiduous woman/AWD.jpg'],
-    title: 'THE ASSIDUOUS WOMAN DAIRY',
-    text: 'Our live broadcasts feature dedicated sessions on empowering women to embrace their roles as vital contributors to society, in line with their divine purpose. We aim to inspire and equip women to make history together',
-    start: 'February',
-    end: 'June',
+    title: 'YOUTHS FELLOWSHIP',
+    text: "Love letters is a part of the University of Marriage, providing prompt solutions for marital challenges. This program runs from August to December.",
+     
+    start: 'Augast 2025',
+    end: 'Never',
     frequency: 'Weekly - Thursday',
-    time: '8pm to 10pm',
+    time: '6pm to 8pm',
   },
   {
     id: 3,
@@ -57,7 +58,7 @@ export const events = [
     id: 5,
     images: ['/assets/images/worshippers-blueprint.jpg'],
     title: "THE WORSHIPPER'S BLUEPRINT",
-    text: 'Leading worship and musicianship in the gospel music world and church settings can be challenging, but it’s a skill that can be taught and learned at QDM. The Worshipper Blueprint program is designed not only to develop excellence in voice and musicianship but also to instill ministerial ethics, character, and integrity',
+    text: 'Leading worship and musicianship in the gospel music world and church settings can be challenging, but it’s a skill that can be taught and learned at . The Worshipper Blueprint program is designed not only to develop excellence in voice and musicianship but also to instill ministerial ethics, character, and integrity',
     start: null,
     end: null,
     frequency: 'Done Annually',
@@ -84,7 +85,7 @@ export const services = [
   {
     image: '/assets/images/him teaching/IMG-20240420-WA0033.jpg',
     title: 'Christmas Moments with Quincy Davies and The Gospellier',
-    text: 'Celebrate the holiday season with our special Christmas Moments event. Reserve Quincy Bell & Davies Gospellier for your end-of-year festivities, including company parties, church celebrations, and Easter events.',
+    text: 'Celebrate the holiday season with our special Christmas Moments event. Reserve LCFI_ JUJA_AMANI for your end-of-year festivities, including company parties, church celebrations, and Easter events.',
   },
   {
     image: '/assets/images/him teaching/IMG-20240420-WA0033.jpg',
@@ -96,32 +97,37 @@ export const services = [
 export const ministers = [
   {
     image:
-      'https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137640/founder_pq4hyo.jpg',
-    title: 'Pastor Dan Davies',
+      '/media/founder.jpeg',
+    title: 'Bishop Charles Kinuthia',
     text: 'Founder',
   },
   {
     image:
-      'https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137642/woman_vdltvy.jpg',
-    title: 'Prophetes Quincy Bell',
+      '/media/cofounder.jpeg',
+    title: 'Pastor Ann',
     text: 'Co-Founder',
   },
   {
     image:
       'https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137641/darko_egffqm.jpg',
-    title: 'Darko Milo',
+    title: 'Mr George ',
     text: 'Treasurer',
   },
   {
     image:
       'https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137640/alex_buph2h.jpg',
-    title: 'Alex Boateng',
+    title: ' Church Chairman',
     text: 'Administrator',
   },
   {
     image:
-      'https://res.cloudinary.com/dxu0xbfen/image/upload/v1732137642/jolly_lkq5z2.jpg',
-    title: 'Jolly Igbinosa',
+      '/media/youths.jpeg',
+    title: 'Mr Dauglas Ogero',
+    text: ' Youths CHairman 2022 to date',
+  },
+  {
+    image:'/media/media.jpeg',
+    title: 'Eng Dominic Vurudi',
     text: 'Media/Organizer',
   },
 ];
@@ -164,4 +170,4 @@ export interface Testimonial {
 }
 
 export const emailUrl: string =
-  'https://qdm-mail.up.railway.app/api/email/send';
+  'https://-mail.up.railway.app/api/email/send';

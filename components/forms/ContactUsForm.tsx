@@ -40,7 +40,7 @@ const ContactUsForm = () => {
       sender: 'info',
       receipient: [
         {
-          name: 'Quincy Davies Ministries',
+          name: 'LIFE CARE FELLOWSHIP INTERNATIONAL',
           address: 'info@quincydaviesministries.com',
         },
       ],

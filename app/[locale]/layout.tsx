@@ -16,7 +16,7 @@ const fontSans = FontSans({
 export const metadata: Metadata = {
   title: "Quncy Davies Ministries",
   description:
-    "Quincy Davies Ministries is dedicated to fostering spiritual connection through worship music",
+    "LIFE CARE FELLOWSHIP INTERNATIONAL is dedicated to fostering spiritual connection through worship music",
 };
 
 export async function generateStaticParams() {

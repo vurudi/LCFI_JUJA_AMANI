@@ -23,8 +23,8 @@ const ContactUs = async ({
             {translations('contactUsPage.location')}
           </h5>
           <p className="text-center">
-            Quincy Davies Ministries e.V @Unperfekhaus Essen
-            Friedrich-Ebert-Straße 18-20, 45127 Essen
+            LIFE CARE FELLOWSHIP INTERNATIONAL 
+            Uhuru Highway, Nairobi, 46464, Kenya, Juja Amani
           </p>
         </div>
         <div className="rounded-lg flex flex-col items-center justify-center text-white bg-section space-y-4 p-10">
@@ -33,7 +33,7 @@ const ContactUs = async ({
             {' '}
             {translations('contactUsPage.phoneNumber')}
           </h5>
-          <p className="text-center">+4915906607717</p>
+          <p className="text-center">+254726581554</p>
         </div>
         <div className="rounded-lg flex flex-col items-center justify-center text-white bg-section space-y-4 p-10">
           <FaLocationDot className="size-10 text-white" />
@@ -42,8 +42,8 @@ const ContactUs = async ({
             {translations('contactUsPage.email')}
           </h5>
           <p className="text-center">
-            quincydaviesministries@gmail.com <br />{' '}
-            info@quincydaviesministries.com
+            lifecare@gmail.com <br />{' '}
+            info@lifecare.com
           </p>
         </div>
       </div>

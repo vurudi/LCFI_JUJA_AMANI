@@ -31,12 +31,12 @@ const EventRegistration = ({ event }: { event: Event }) => {
       sender: 'info',
       receipient: [
         {
-          name: 'Quincy Davies Ministries',
+          name: 'LIFE CARE FELLOWSHIP INTERNATIONAL',
           address: 'info@quincydaviesministries.com',
         },
       ],
       message: `Hello, I'm ${formData.name}. I need more information about ${event?.title}. Here is my email so you can contact me: ${formData.email}`,
-      subject: `Quincy Davies Ministries - ${event?.title}`,
+      subject: `LIFE CARE FELLOWSHIP INTERNATIONAL - ${event?.title}`,
     };
 
     try {
